@@ -1,0 +1,28 @@
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\bin\Debug\Project_Music.exe.config
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\bin\Debug\Project_Music.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\bin\Debug\Project_Music.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.2.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form1.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form2.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form3.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form4.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form5.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Properties.Resources.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.2.csproj.GenerateResource.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.2.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.pdb
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\bin\Debug\Project_Music.exe.config
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\bin\Debug\Project_Music.exe
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\bin\Debug\Project_Music.pdb
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.2.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form1.resources
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form2.resources
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form3.resources
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form4.resources
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Form5.resources
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.Properties.Resources.resources
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.2.csproj.GenerateResource.cache
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.2.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.exe
+C:\Users\Mohit Techtorium\Documents\Term_2_projects\C# Advance\Project_Music.2(Codes)\Project_Music.2\obj\Debug\Project_Music.pdb

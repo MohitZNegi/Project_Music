@@ -1,0 +1,11 @@
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\bin\Debug\Project_Music.exe.config
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\bin\Debug\Project_Music.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\bin\Debug\Project_Music.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\obj\Debug\Project_Music.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\obj\Debug\Project_Music.Form1.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\obj\Debug\Project_Music.Form2.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\obj\Debug\Project_Music.Properties.Resources.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\obj\Debug\Project_Music.csproj.GenerateResource.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\obj\Debug\Project_Music.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\obj\Debug\Project_Music.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Music\Project_Music\obj\Debug\Project_Music.pdb
